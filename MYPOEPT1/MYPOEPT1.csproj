@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCFBEC98-4C17-4583-8B5A-D9CE3A5ED334}</ProjectGuid>
+    <ProjectGuid>{1E678819-FCAE-45E1-A36A-8CCBEC5497C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MYPOEPT1</RootNamespace>
     <AssemblyName>MYPOEPT1</AssemblyName>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ascii_Logo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StorePrompt.cs" />
-    <Compile Include="voice.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
