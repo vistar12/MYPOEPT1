@@ -10,6 +10,9 @@ namespace MYPOEPT1
     {
         static void Main(string[] args)
         {
+            new voice() { };
+            new Ascii_Logo() { };
+            new StorePrompt() { };
         }
     }
 }
