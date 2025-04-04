@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.IO;
 
 namespace MYPOEPT1
@@ -13,7 +14,7 @@ namespace MYPOEPT1
             string new_path = logo_path.Replace("bin\\Debug\\", "");
 
 
-            string full_location = Path.Combine(new_path, "CYBERSECURITY.png");
+            string full_location = Path.Combine(new_path, "CYBERSECURITYY.png");
 
             // Checks if the file exists
             if (!File.Exists(full_location))

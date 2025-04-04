@@ -1,9 +1,12 @@
-﻿namespace MYPOEPT1
+﻿using System;
+using System.Collections;
+
+namespace MYPOEPT1
 {
     public class StorePrompt
     {
         // Lists to store bot responses, ignored words, and exit words
-        private ArrayList botResponses = new ArrayList();
+        private  ArrayList botResponses = new ArrayList();
         private ArrayList wordsToIgnore = new ArrayList();
         private ArrayList exitWords = new ArrayList();
 

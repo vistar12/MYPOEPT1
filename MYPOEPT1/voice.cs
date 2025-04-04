@@ -4,7 +4,7 @@ using System.Media;
 
 namespace MYPOEPT1
 {
-    internal class voice
+    public class voice
     {
         public voice()
         {
