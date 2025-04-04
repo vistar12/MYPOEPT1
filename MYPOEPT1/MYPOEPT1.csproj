@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CYBERSECURITY %281%29.png" />
+    <Content Include="my record.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
