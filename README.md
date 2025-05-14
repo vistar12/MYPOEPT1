@@ -21,3 +21,12 @@ ASCII Art Generator
 Converts CYBERSECURITY.png into ASCII and prints it to the console.
 Resizes the image to fit the console window before processing.
 
+Randomisation
+When a user mentions a keyword like "phishing" or "malware," the bot randomly selects from a list of relevant responses instead of always giving the same one. This helps make the conversation feel more natural and engaging, as it mimics the way humans vary their speech. It enhances the realism of the chatbot and keeps users more interested by providing fresh, dynamic replies each time.
+
+Sentiment
+Sentiment detection enables the chatbot to recognize the emotional tone in the user’s input and respond with empathy. For example, if the user says they are "worried" or "frustrated," the bot includes a comforting or encouraging message before delivering the main response. This adds emotional intelligence to the interaction, making the bot seem more human-like and user-friendly. By acknowledging how the user feels, the chatbot builds trust and creates a more supportive communication experience.
+
+Memory Recall
+Memory recall allows the chatbot to remember user-specific interests across different sessions. When a user says something like "I am interested in ransomware," the bot stores that information along with the user’s name. Later, if the user asks "what are my interests," the bot can recall and display them. This feature personalizes the chatbot, giving it the ability to adapt to individual users and remember their preferences. It simulates long-term memory, making interactions more meaningful and context-aware.
+
