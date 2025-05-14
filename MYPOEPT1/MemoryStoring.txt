@@ -1,0 +1,20 @@
+Briab:Interest=ransomware
+Karabo:Interest=phishing
+voroso is interested in: malware
+Brian is interested in: vpn
+Dan dance is interested in: ransomware
+Letlotlo is interested in: phishing
+samito is interested in: vpn
+Tsimie is interested in: ransomware
+sexwale is interested in: phishing
+sexwale is interested in: firewall
+sexwale is interested in: passwords
+:Interest=
+GUUUOG is interested in: malware
+Letlotlo is interested in: phishing
+Letlotlo is interested in: password
+thabo is interested in: phishing
+thabs:Interest=vpn
+Lethabo:Interest=malware
+Sqeta:Interest=vpn
+Sqeta:Interest=phishing

@@ -45,9 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ascii_Logo.cs" />
+    <Compile Include="BotResponsemanager.cs" />
     <Compile Include="MainResponse.cs" />
+    <Compile Include="MemoryRecall.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SentimentAnalyzer.cs" />
     <Compile Include="StorePrompt.cs" />
     <Compile Include="voice.cs" />
   </ItemGroup>

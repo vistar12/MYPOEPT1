@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.IO;
 
-namespace MYPOEPT1
+namespace MYPOEPT2
 {
     internal class Ascii_Logo
     {

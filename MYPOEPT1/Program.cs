@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MYPOEPT1
+namespace MYPOEPT2
 {
     internal class Program
     {
@@ -13,6 +13,7 @@ namespace MYPOEPT1
             new voice() { };
             new Ascii_Logo() { };
             new StorePrompt() { };
+            new MemoryRecall() { };
         }
     }
 }

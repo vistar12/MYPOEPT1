@@ -2,7 +2,7 @@
 using System.IO;
 using System.Media;
 
-namespace MYPOEPT1
+namespace MYPOEPT2
 {
     public class voice
     {

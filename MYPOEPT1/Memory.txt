@@ -1,0 +1,6 @@
+Vistar:what is cyberattackks
+Bot: A cyberattack can expose sensitive information. Preparedness is key.
+
+Vistar:tell me about malware tips
+Bot: Malware can be hidden in attachments or downloads.
+

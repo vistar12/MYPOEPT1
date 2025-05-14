@@ -1,0 +1,21 @@
+Vistar: i'm worried about online scams.
+Bot: It's completely understandable to feel that way. Scammers can be very convincing. Let me share some tips to help you stay safe. Sorry, I do not have a response for your question.
+
+I am curious abou ransomware:i am curious about ransomware
+Bot: Great to hear you're curious! Learning more about cybersecurity is a smart move. Ransomware locks your data and demands payment. Backup your data regularly.
+
+Letlotlo:what is ransomware
+Bot: Ransomware locks your data and demands payment. Backup your data regularly.
+
+Letlotlo:iam worried about ransomware
+Bot: It's completely understandable to feel that way. Scammers can be very convincing. Let me share some tips to help you stay safe. Ransomware locks your data and demands payment. Backup your data regularly.
+
+Letlotlo:vpn
+Bot: Use a reliable VPN when on public Wi-Fi.
+
+Letlotlo:iam worried about my password
+Bot: It's completely understandable to feel that way. Scammers can be very convincing. Let me share some tips to help you stay safe. Enable two-factor authentication wherever possible.
+
+Sabzero:i am interested in cybersecurity
+Bot: Sorry, I do not have a response for your question.
+
