@@ -1,7 +1,7 @@
 MYPOEPT1 is a C# console application that integrates multiple components, including:
 Voice Playback: Plays an audio file.
 ASCII Art Generator: Converts an image into ASCII text.
-Cybersecurity Chatbot: A bot that provides responses related to cybersecurity topics.
+Cybersecurity Chatbot: A bot that provides responses related to cybersecurity topics. 
 
 Voice Interaction: The voice class plays a file located in the project's root directory.
 ASCII Logo Display: The Ascii_Logo class loads and converts an image into ASCII art.
@@ -29,4 +29,9 @@ Sentiment detection enables the chatbot to recognize the emotional tone in the u
 
 Memory Recall
 Memory recall allows the chatbot to remember user-specific interests across different sessions. When a user says something like "I am interested in ransomware," the bot stores that information along with the user’s name. Later, if the user asks "what are my interests," the bot can recall and display them. This feature personalizes the chatbot, giving it the ability to adapt to individual users and remember their preferences. It simulates long-term memory, making interactions more meaningful and context-aware.
+![Screenshot 2025-05-14 214229](https://github.com/user-attachments/assets/97b62a71-498d-4088-917d-4a0f70d75750)
+![Screenshot 2025-05-14 214004](https://github.com/user-attachments/assets/9705d564-9085-41ab-8ac3-aa7a4f7c3ab9)
+
+
+
 
